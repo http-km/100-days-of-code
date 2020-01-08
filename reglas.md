@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+8 de Enero de 2020. Angel Osvaldo Martinez Romo.
 
 ## Reglas adicionales
 

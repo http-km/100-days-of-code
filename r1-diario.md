@@ -1,6 +1,6 @@
 # #100DaysOfCode diario - ronda 1 - [ponga su nombre aquí]
 
-El diario de mi reto #100DaysOfCode. Empecé el [17 de julio, lunes, 2017]
+El diario de mi reto #100DaysOfCode. Empecé el 8 de Enero de 2020
 
 ## Registro
 
